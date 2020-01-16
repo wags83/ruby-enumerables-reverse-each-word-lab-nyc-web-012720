@@ -6,6 +6,8 @@ def reverse_each_word(string)
   reverse_element = array[i].reverse
   reverse_string += "#{reverse_element} "
 end
+reverse_string
+end
 
 #def reverse_each_word(string)
 #  array = []
